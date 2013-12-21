@@ -1,6 +1,6 @@
 # Sync XML Data From RoboForm Everywhere Account
 
-This scripts will fetch all passcard data from your RoboForm Everywhere
+This scripts will export all passcard data from your RoboForm Everywhere
 account and locally store it in an **unencrypted** raw form.
 
 This is useful if you wish to use this data to import into another password
