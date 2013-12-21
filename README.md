@@ -23,8 +23,8 @@ You will need to install the following Perl modules:
 * WWW::Mechanize
 * XML::Simple
 
-The easiest way to install the modules is with `cpanm` (command line
-tool)[https://metacpan.org/pod/App::cpanminus#INSTALLATION].
+The easiest way to install the modules is with [`cpanm` command line
+tool](https://metacpan.org/pod/App::cpanminus#INSTALLATION).
 
 You will need to edit two constants `USERNAME` and `PASSWORD` to set your
 RoboForm Everywhere account information for retrieval of data.
